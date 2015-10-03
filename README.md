@@ -1,1 +1,1 @@
-# My-First-Repo
+# Cordova setup in windows 7
